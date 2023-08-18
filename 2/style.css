@@ -1,0 +1,6 @@
+h1 {
+    color: darkred;
+    text-align: center;
+    position: static;
+}
+P { text-align: center; font-size:24px; font-style: oblique; text-shadow: green 2px 3px 4px}
